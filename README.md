@@ -1,6 +1,6 @@
 # Spark-AI-Assiant
 
-[English Docs](https://github.com/mggger/SparkSQL-AI-Assiant/blob/main/REAME-en.md)
+[English Docs](https://github.com/mggger/SparkSQL-AI-Assiant/blob/main/README-en.md)
 
 不到100行代码，构建你的spark聊天应用
 
